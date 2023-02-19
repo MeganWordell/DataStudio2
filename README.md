@@ -1,6 +1,5 @@
-# NYCRentBurden
- Data Studio 2 project
 Apartment Hunters: NYC Edition
+Data Studio 2 project
 
 For this Data Studio project, I wanted to see if there was anywhere in NYC that an individual person, who makes an average amount of money, could afford and not be “rent burdened.” This was a partly selfish endeavor, as my boyfriend and I are most likely moving to Brooklyn next month leaving our lovely roommate, dual income-less. To do this, my goal was to create a map of the city, or at least Manhattan for now, that displays the average rent of a one bedroom apartment, contrasted with the average monthly income of residents.
 
