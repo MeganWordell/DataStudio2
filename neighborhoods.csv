@@ -1,0 +1,311 @@
+﻿name,NTAType,NTAName,NTAAbbrev
+309,0,Kingsbridge-Marble Hill,Kngbrdg
+7,0,Financial District-Battery Park City,FiDi
+9,0,Financial District-Battery Park City,FiDi
+13,0,Financial District-Battery Park City,FiDi
+15.01,0,Financial District-Battery Park City,FiDi
+15.02,0,Financial District-Battery Park City,FiDi
+317.03,0,Financial District-Battery Park City,FiDi
+317.04,0,Financial District-Battery Park City,FiDi
+21,0,Tribeca-Civic Center,TriBeCa
+29.01,0,Tribeca-Civic Center,TriBeCa
+31,0,Tribeca-Civic Center,TriBeCa
+33,0,Tribeca-Civic Center,TriBeCa
+39,0,Tribeca-Civic Center,TriBeCa
+1,9,The Battery-Governors Island-Ellis Island-Liberty Island,Btry_GvIsl
+5,9,The Battery-Governors Island-Ellis Island-Liberty Island,Btry_GvIsl
+319,9,The Battery-Governors Island-Ellis Island-Liberty Island,Btry_GvIsl
+37,0,SoHo-Little Italy-Hudson Square,SoHo
+41,0,SoHo-Little Italy-Hudson Square,SoHo
+43,0,SoHo-Little Italy-Hudson Square,SoHo
+45,0,SoHo-Little Italy-Hudson Square,SoHo
+47,0,SoHo-Little Italy-Hudson Square,SoHo
+49,0,SoHo-Little Italy-Hudson Square,SoHo
+55.01,0,Greenwich Village,GrnwchVlg
+55.02,0,Greenwich Village,GrnwchVlg
+57,0,Greenwich Village,GrnwchVlg
+59,0,Greenwich Village,GrnwchVlg
+61,0,Greenwich Village,GrnwchVlg
+63,0,Greenwich Village,GrnwchVlg
+65,0,Greenwich Village,GrnwchVlg
+67,0,West Village,WstVlg
+69,0,West Village,WstVlg
+71,0,West Village,WstVlg
+73,0,West Village,WstVlg
+75,0,West Village,WstVlg
+77,0,West Village,WstVlg
+79,0,West Village,WstVlg
+2.01,0,Chinatown-Two Bridges,Chntwn
+6,0,Chinatown-Two Bridges,Chntwn
+8,0,Chinatown-Two Bridges,Chntwn
+16,0,Chinatown-Two Bridges,Chntwn
+25,0,Chinatown-Two Bridges,Chntwn
+27,0,Chinatown-Two Bridges,Chntwn
+29.02,0,Chinatown-Two Bridges,Chntwn
+2.02,0,Lower East Side,LES
+10.01,0,Lower East Side,LES
+10.02,0,Lower East Side,LES
+12,0,Lower East Side,LES
+14.01,0,Lower East Side,LES
+14.02,0,Lower East Side,LES
+18,0,Lower East Side,LES
+22.01,0,Lower East Side,LES
+30.01,0,Lower East Side,LES
+36.01,0,Lower East Side,LES
+20,0,East Village,EstVlg
+22.02,0,East Village,EstVlg
+24,0,East Village,EstVlg
+26.01,0,East Village,EstVlg
+26.02,0,East Village,EstVlg
+28,0,East Village,EstVlg
+30.02,0,East Village,EstVlg
+32,0,East Village,EstVlg
+34,0,East Village,EstVlg
+36.02,0,East Village,EstVlg
+38,0,East Village,EstVlg
+40.01,0,East Village,EstVlg
+40.02,0,East Village,EstVlg
+42,0,East Village,EstVlg
+81,0,Chelsea-Hudson Yards,Chls_HdsYd
+83,0,Chelsea-Hudson Yards,Chls_HdsYd
+87,0,Chelsea-Hudson Yards,Chls_HdsYd
+89,0,Chelsea-Hudson Yards,Chls_HdsYd
+91,0,Chelsea-Hudson Yards,Chls_HdsYd
+93,0,Chelsea-Hudson Yards,Chls_HdsYd
+97,0,Chelsea-Hudson Yards,Chls_HdsYd
+99.01,0,Chelsea-Hudson Yards,Chls_HdsYd
+99.02,0,Chelsea-Hudson Yards,Chls_HdsYd
+99.03,0,Chelsea-Hudson Yards,Chls_HdsYd
+103,0,Chelsea-Hudson Yards,Chls_HdsYd
+111,0,Chelsea-Hudson Yards,Chls_HdsYd
+117,0,Chelsea-Hudson Yards,Chls_HdsYd
+115,0,Hell's Kitchen,HllsKtchn
+121.01,0,Hell's Kitchen,HllsKtchn
+121.02,0,Hell's Kitchen,HllsKtchn
+127,0,Hell's Kitchen,HllsKtchn
+129.01,0,Hell's Kitchen,HllsKtchn
+129.02,0,Hell's Kitchen,HllsKtchn
+133,0,Hell's Kitchen,HllsKtchn
+135.01,0,Hell's Kitchen,HllsKtchn
+135.02,0,Hell's Kitchen,HllsKtchn
+139,0,Hell's Kitchen,HllsKtchn
+52,0,Midtown South-Flatiron-Union Square,MdtwnSth
+54,0,Midtown South-Flatiron-Union Square,MdtwnSth
+56,0,Midtown South-Flatiron-Union Square,MdtwnSth
+58,0,Midtown South-Flatiron-Union Square,MdtwnSth
+74,0,Midtown South-Flatiron-Union Square,MdtwnSth
+76,0,Midtown South-Flatiron-Union Square,MdtwnSth
+95,0,Midtown South-Flatiron-Union Square,MdtwnSth
+101,0,Midtown South-Flatiron-Union Square,MdtwnSth
+82,0,Midtown-Times Square,Mdtwn_TmSq
+84,0,Midtown-Times Square,Mdtwn_TmSq
+94,0,Midtown-Times Square,Mdtwn_TmSq
+96,0,Midtown-Times Square,Mdtwn_TmSq
+102,0,Midtown-Times Square,Mdtwn_TmSq
+104,0,Midtown-Times Square,Mdtwn_TmSq
+109,0,Midtown-Times Square,Mdtwn_TmSq
+112.01,0,Midtown-Times Square,Mdtwn_TmSq
+112.02,0,Midtown-Times Square,Mdtwn_TmSq
+113,0,Midtown-Times Square,Mdtwn_TmSq
+119,0,Midtown-Times Square,Mdtwn_TmSq
+125,0,Midtown-Times Square,Mdtwn_TmSq
+131,0,Midtown-Times Square,Mdtwn_TmSq
+137,0,Midtown-Times Square,Mdtwn_TmSq
+44,0,Stuyvesant Town-Peter Cooper Village,StyTwn
+60,0,Stuyvesant Town-Peter Cooper Village,StyTwn
+48,0,Gramercy,Grmrcy
+50,0,Gramercy,Grmrcy
+64,0,Gramercy,Grmrcy
+68,0,Gramercy,Grmrcy
+62,0,Murray Hill-Kips Bay,MryHl_KpBy
+66,0,Murray Hill-Kips Bay,MryHl_KpBy
+70.01,0,Murray Hill-Kips Bay,MryHl_KpBy
+70.02,0,Murray Hill-Kips Bay,MryHl_KpBy
+72,0,Murray Hill-Kips Bay,MryHl_KpBy
+78,0,Murray Hill-Kips Bay,MryHl_KpBy
+80,0,Murray Hill-Kips Bay,MryHl_KpBy
+86.01,0,Murray Hill-Kips Bay,MryHl_KpBy
+88,0,Murray Hill-Kips Bay,MryHl_KpBy
+86.03,0,East Midtown-Turtle Bay,EstMdtwn
+90,0,East Midtown-Turtle Bay,EstMdtwn
+92,0,East Midtown-Turtle Bay,EstMdtwn
+98,0,East Midtown-Turtle Bay,EstMdtwn
+100,0,East Midtown-Turtle Bay,EstMdtwn
+106.01,0,East Midtown-Turtle Bay,EstMdtwn
+108.01,0,East Midtown-Turtle Bay,EstMdtwn
+108.02,0,East Midtown-Turtle Bay,EstMdtwn
+108.03,0,East Midtown-Turtle Bay,EstMdtwn
+112.03,0,East Midtown-Turtle Bay,EstMdtwn
+86.02,6,United Nations,UN
+145,0,Upper West Side-Lincoln Square,UWS_LclnSq
+147,0,Upper West Side-Lincoln Square,UWS_LclnSq
+149,0,Upper West Side-Lincoln Square,UWS_LclnSq
+151.01,0,Upper West Side-Lincoln Square,UWS_LclnSq
+151.02,0,Upper West Side-Lincoln Square,UWS_LclnSq
+153.01,0,Upper West Side-Lincoln Square,UWS_LclnSq
+153.02,0,Upper West Side-Lincoln Square,UWS_LclnSq
+155.01,0,Upper West Side-Lincoln Square,UWS_LclnSq
+155.02,0,Upper West Side-Lincoln Square,UWS_LclnSq
+157,0,Upper West Side-Lincoln Square,UWS_LclnSq
+159,0,Upper West Side-Lincoln Square,UWS_LclnSq
+161,0,Upper West Side (Central),UWS_C
+163,0,Upper West Side (Central),UWS_C
+165,0,Upper West Side (Central),UWS_C
+167,0,Upper West Side (Central),UWS_C
+169,0,Upper West Side (Central),UWS_C
+171,0,Upper West Side (Central),UWS_C
+173,0,Upper West Side (Central),UWS_C
+175,0,Upper West Side (Central),UWS_C
+177,0,Upper West Side (Central),UWS_C
+179,0,Upper West Side (Central),UWS_C
+181,0,Upper West Side (Central),UWS_C
+183,0,Upper West Side (Central),UWS_C
+185,0,Upper West Side-Manhattan Valley,UWS_MnVly
+187,0,Upper West Side-Manhattan Valley,UWS_MnVly
+189,0,Upper West Side-Manhattan Valley,UWS_MnVly
+191,0,Upper West Side-Manhattan Valley,UWS_MnVly
+193,0,Upper West Side-Manhattan Valley,UWS_MnVly
+195,0,Upper West Side-Manhattan Valley,UWS_MnVly
+106.02,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+110,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+116,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+118,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+124,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+126.01,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+126.02,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+132.01,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+132.02,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+132.03,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+134,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+238.02,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+238.03,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+238.04,0,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl
+114.01,0,Upper East Side-Carnegie Hill,UES_CrngHl
+114.02,0,Upper East Side-Carnegie Hill,UES_CrngHl
+120,0,Upper East Side-Carnegie Hill,UES_CrngHl
+122,0,Upper East Side-Carnegie Hill,UES_CrngHl
+128,0,Upper East Side-Carnegie Hill,UES_CrngHl
+130,0,Upper East Side-Carnegie Hill,UES_CrngHl
+140,0,Upper East Side-Carnegie Hill,UES_CrngHl
+142,0,Upper East Side-Carnegie Hill,UES_CrngHl
+148.01,0,Upper East Side-Carnegie Hill,UES_CrngHl
+148.02,0,Upper East Side-Carnegie Hill,UES_CrngHl
+150.01,0,Upper East Side-Carnegie Hill,UES_CrngHl
+150.02,0,Upper East Side-Carnegie Hill,UES_CrngHl
+158.01,0,Upper East Side-Carnegie Hill,UES_CrngHl
+160.01,0,Upper East Side-Carnegie Hill,UES_CrngHl
+136.01,0,Upper East Side-Yorkville,UES_Yrkvl
+136.02,0,Upper East Side-Yorkville,UES_Yrkvl
+136.03,0,Upper East Side-Yorkville,UES_Yrkvl
+136.04,0,Upper East Side-Yorkville,UES_Yrkvl
+138,0,Upper East Side-Yorkville,UES_Yrkvl
+144.01,0,Upper East Side-Yorkville,UES_Yrkvl
+144.02,0,Upper East Side-Yorkville,UES_Yrkvl
+146.01,0,Upper East Side-Yorkville,UES_Yrkvl
+146.02,0,Upper East Side-Yorkville,UES_Yrkvl
+152,0,Upper East Side-Yorkville,UES_Yrkvl
+154.01,0,Upper East Side-Yorkville,UES_Yrkvl
+154.02,0,Upper East Side-Yorkville,UES_Yrkvl
+154.03,0,Upper East Side-Yorkville,UES_Yrkvl
+156.01,0,Upper East Side-Yorkville,UES_Yrkvl
+197.01,0,Morningside Heights,MrngsdHts
+199,0,Morningside Heights,MrngsdHts
+201.01,0,Morningside Heights,MrngsdHts
+203,0,Morningside Heights,MrngsdHts
+205,0,Morningside Heights,MrngsdHts
+207.01,0,Morningside Heights,MrngsdHts
+209.01,0,Morningside Heights,MrngsdHts
+211,0,Morningside Heights,MrngsdHts
+213.03,0,Manhattanville-West Harlem,Mnhttnvl
+217.03,0,Manhattanville-West Harlem,Mnhttnvl
+219,0,Manhattanville-West Harlem,Mnhttnvl
+223.01,0,Manhattanville-West Harlem,Mnhttnvl
+223.02,0,Manhattanville-West Harlem,Mnhttnvl
+225,0,Hamilton Heights-Sugar Hill,HmltnHts
+227,0,Hamilton Heights-Sugar Hill,HmltnHts
+229,0,Hamilton Heights-Sugar Hill,HmltnHts
+231,0,Hamilton Heights-Sugar Hill,HmltnHts
+233,0,Hamilton Heights-Sugar Hill,HmltnHts
+235.01,0,Hamilton Heights-Sugar Hill,HmltnHts
+237,0,Hamilton Heights-Sugar Hill,HmltnHts
+186,0,Harlem (South),Hrlm_S
+190,0,Harlem (South),Hrlm_S
+197.02,0,Harlem (South),Hrlm_S
+200,0,Harlem (South),Hrlm_S
+201.02,0,Harlem (South),Hrlm_S
+216,0,Harlem (South),Hrlm_S
+218,0,Harlem (South),Hrlm_S
+220,0,Harlem (South),Hrlm_S
+222,0,Harlem (South),Hrlm_S
+257,0,Harlem (South),Hrlm_S
+208,0,Harlem (North),Hrlm_N
+212,0,Harlem (North),Hrlm_N
+214,0,Harlem (North),Hrlm_N
+215,0,Harlem (North),Hrlm_N
+221.02,0,Harlem (North),Hrlm_N
+224,0,Harlem (North),Hrlm_N
+226,0,Harlem (North),Hrlm_N
+228,0,Harlem (North),Hrlm_N
+230,0,Harlem (North),Hrlm_N
+232,0,Harlem (North),Hrlm_N
+234,0,Harlem (North),Hrlm_N
+235.02,0,Harlem (North),Hrlm_N
+236,0,Harlem (North),Hrlm_N
+243.02,0,Harlem (North),Hrlm_N
+259,0,Harlem (North),Hrlm_N
+156.02,0,East Harlem (South),EstHrlm_S
+158.02,0,East Harlem (South),EstHrlm_S
+160.02,0,East Harlem (South),EstHrlm_S
+162,0,East Harlem (South),EstHrlm_S
+164,0,East Harlem (South),EstHrlm_S
+166,0,East Harlem (South),EstHrlm_S
+168,0,East Harlem (South),EstHrlm_S
+170,0,East Harlem (South),EstHrlm_S
+172,0,East Harlem (South),EstHrlm_S
+174.01,0,East Harlem (South),EstHrlm_S
+174.02,0,East Harlem (South),EstHrlm_S
+178,0,East Harlem (North),EstHrlm_N
+180,0,East Harlem (North),EstHrlm_N
+182,0,East Harlem (North),EstHrlm_N
+184,0,East Harlem (North),EstHrlm_N
+188,0,East Harlem (North),EstHrlm_N
+192,0,East Harlem (North),EstHrlm_N
+194,0,East Harlem (North),EstHrlm_N
+196,0,East Harlem (North),EstHrlm_N
+198,0,East Harlem (North),EstHrlm_N
+206,0,East Harlem (North),EstHrlm_N
+210,0,East Harlem (North),EstHrlm_N
+242,0,East Harlem (North),EstHrlm_N
+240,9,Randall's Island,RndllsIsl
+239,0,Washington Heights (South),WshHts_S
+241,0,Washington Heights (South),WshHts_S
+243.01,0,Washington Heights (South),WshHts_S
+245,0,Washington Heights (South),WshHts_S
+247,0,Washington Heights (South),WshHts_S
+249,0,Washington Heights (South),WshHts_S
+251,0,Washington Heights (South),WshHts_S
+253,0,Washington Heights (South),WshHts_S
+255,0,Washington Heights (South),WshHts_S
+261,0,Washington Heights (South),WshHts_S
+263,0,Washington Heights (South),WshHts_S
+265,0,Washington Heights (North),WshHts_N
+267,0,Washington Heights (North),WshHts_N
+269,0,Washington Heights (North),WshHts_N
+271,0,Washington Heights (North),WshHts_N
+273,0,Washington Heights (North),WshHts_N
+275,0,Washington Heights (North),WshHts_N
+277,0,Washington Heights (North),WshHts_N
+279,0,Washington Heights (North),WshHts_N
+281,0,Washington Heights (North),WshHts_N
+283,0,Washington Heights (North),WshHts_N
+285,0,Washington Heights (North),WshHts_N
+287,0,Washington Heights (North),WshHts_N
+291,0,Inwood,Inwd
+293,0,Inwood,Inwd
+295,0,Inwood,Inwd
+299,0,Inwood,Inwd
+303,0,Inwood,Inwd
+307,0,Inwood,Inwd
+311,9,Highbridge Park,HghbrdgPk
+297,9,Inwood Hill Park,InwdHlPk
+143,9,Central Park,CntrlPk
